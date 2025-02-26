@@ -24,3 +24,23 @@ En este ejercicio, se inserta una tabla que muestra información de 5 estudiante
 | ...          | ...               | ...  | ...         | ...    | ...    | ...    | ...      | ...          |
 
 
+# Formulario de Registro
+
+## Descripción
+En este ejercicio, se implementa un formulario que permite a los usuarios ingresar sus datos, los cuales se muestran en una tabla justo debajo del formulario. Los datos ingresados son:
+- Nombre
+- Apellido
+- Fecha de Nacimiento
+
+El formulario genera una tabla que muestra:
+- Nombre 
+- Edad
+- Correo institucional (formato: inicial + apellido + año de nacimiento + `@elpoli.edu.co`)
+
+## Estructura de la Tabla
+| Nombre Completo     | Edad | Correo Institucional          |
+|---------------------|------|-------------------------------|
+| Juan Pérez          | 25   | jperez2000@elpoli.edu.co      |
+| Ana Gómez           | 22   | agomez2002@elpoli.edu.co      |
+| ...                 | ...  | ...                           |
+
